@@ -6,6 +6,8 @@ I initially used a template but have made many a modification, so feel free to f
 
 ![Preview](https://media.giphy.com/media/phnzE5TtEjaDjkvbgU/giphy.gifhttps://media.giphy.com/media/phnzE5TtEjaDjkvbgU/giphy.gif)
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 ## License
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).   
 
