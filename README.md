@@ -7,7 +7,7 @@ I initially used a template but have made many a modification, so feel free to f
 
 https://media.giphy.com/media/phnzE5TtEjaDjkvbgU/giphy.gifhttps://media.giphy.com/media/phnzE5TtEjaDjkvbgU/giphy.gif
 
-![](https://media.giphy.com/media/phnzE5TtEjaDjkvbgU/giphy.gifhttps://media.giphy.com/media/phnzE5TtEjaDjkvbgU/giphy.gif)
+[](https://media.giphy.com/media/phnzE5TtEjaDjkvbgU/giphy.gifhttps://media.giphy.com/media/phnzE5TtEjaDjkvbgU/giphy.gif)
 
 ## License
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).   
